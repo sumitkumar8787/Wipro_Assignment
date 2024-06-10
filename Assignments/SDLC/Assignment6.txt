@@ -1,0 +1,44 @@
+Agile Project Plan - Close Friends List Feature
+
+Project Goal: Implement a "Close Friends List" feature to allow users to share content with a select group within the existing social media platform.
+
+Team:  John and Roman for requirement gathering and Documenting,  Nikki and Birri for Design the Architeture,  Kane, Dolph, Seth for Development, wills Mcmahon  for Testing and Final Documention.
+
+Iterations (Sprints): 2 weeks
+
+Backlog Items :
+
+    1) User Interface Design 
+       
+       1) Design mockups for close friends list creation and management 
+       2) Design UI elements for displaying content shared with close friends 
+
+    2) Back-End Development 
+        
+        1) Develop functionality for creating and managing close friends lists 
+        2) Integrate close friends list with content sharing functionalities 
+
+    3) Testing 
+        
+        1) Develop unit tests for close friends list features 
+        2) Conduct user acceptance testing for usability and functionality 
+
+    4) Documentation 
+        
+        1) Create user guide for managing close friends lists 
+
+Prioritized User Stories :
+    
+    1) As a user, I want to create a close friends list, so I can share content with a selected group of people. 
+
+    2) As a user, I want to see a "Close Friends" option when sharing content, so I can choose who sees it. 
+
+    3) As a user on the receiving end, I want to see an indicator when content is shared specifically with close friends, so I know the       intended audience.
+ 
+
+Communication:
+    
+    1) Daily Stand-up Meetings (15 minutes)
+    2) Weekly Sprint Planning Meeting (1 hour)
+    3) Retrospective Meeting after each Sprint (1 hour)
+

@@ -1,0 +1,25 @@
+A comparison of four popular SDLC models focusing on their applicability in engineering contexts
+
+1. Waterfall Model-
+
+Advantages: Simple, linear structure, well-defined phases (planning, requirements gathering, design, development, testing, deployment, maintenance) promote clear documentation and project control.
+Disadvantages: Inflexible, requires upfront and complete understanding of requirements, changes are difficult to implement later stages.
+Applicability in Engineering: Suitable for well-defined projects with clear requirements upfront, like building a bridge with established specifications. Not ideal for projects with evolving requirements or high levels of innovation.
+
+2. Agile Model-
+
+Advantages: Highly adaptable, iterative development with frequent feedback loops allows for continuous improvement and adaptation to changing requirements.
+Disadvantages: Requires strong team communication and collaboration, may lack long-term planning for complex projects.
+Applicability in Engineering: Beneficial for projects with uncertain requirements or where innovation is a key factor. Works well for developing prototypes or rapidly iterating on designs.
+
+3. Spiral Model-
+
+Advantages: Combines elements of Waterfall and Agile, risk assessment is integrated throughout the development lifecycle.
+Disadvantages: Can be complex to manage due to iterative nature, requires skilled project managers to navigate risk assessment.
+Applicability in Engineering: Ideal for large, high-risk engineering projects where early risk identification and mitigation are crucial.
+
+4. V-Model-
+
+Advantages: Strong focus on verification and validation, emphasizes testing alongside development phases.
+Disadvantages: Similar to Waterfall, requires upfront and complete understanding of requirements, can be inflexible for changing needs.
+Applicability in Engineering: Useful for projects with strict safety or regulatory requirements, where thorough testing and validation are paramount.

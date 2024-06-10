@@ -1,0 +1,38 @@
+Daily Standup Simulation - Close Friends List Feature
+
+Participants:
+    1) Stephanie - Product Owner
+    2) Seth – Lead Developer 
+    3) Kane - Back-End Developer
+    4) Dolph - Front-End Developer
+    5) Vince – Tester
+
+Stephanie:    Alright team, let's get started! Daily standup. What did everyone work on yesterday?
+
+Seth:    Yesterday, I finished the backend logic for managing close friends lists. Users can now add, remove, and edit their lists. We might have a communication gap, though.
+
+Stephanie:    How so, Seth?
+
+Seth:     There isn't a clear way for users to understand the size limitations for close friends lists. This could lead to frustration if users add too many friends and encounter issues.
+
+Dolph:  That's a valid concern. We should definitely display the maximum list size somewhere in the user interface.
+
+Kane:  Agreed. I can provide the maximum list size information through the API.
+
+Dolph: Great! I can then integrate a clear message displaying the limit next to the "Add Friend" button.
+
+Stephanie:   Dolph this is good option. Proceed for it.
+
+Stephanie:   Vince, any updates from testing so far?
+
+Vince:     Not yet. I'm waiting on the complete list management functionalities before I can start testing adding/removing friends.
+
+Stephanie:     Understood. Once Dolph and Kane finalize the list size indicator, Vince, you can jump in and start testing those functionalities.
+
+Stephanie:  Does anyone have any blockers for today?
+
+Kane:      Actually, I might need some help from Dolph. Integrating the list size information into the API might require a minor adjustment on the front-end to handle displaying it.
+
+Dolph:         No problem, Kane. We can tackle that together this morning.
+
+Stephanie:        Excellent! Let's keep communicating openly if any dependencies arise. See you all tomorrow for another update.
